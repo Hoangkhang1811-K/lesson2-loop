@@ -1,0 +1,2 @@
+public class InterestCaculator {
+}
